@@ -1,6 +1,6 @@
 # Lab 6 – Scale and Load Balance Your Architecture
-## NAME: JOYCE PRISCILLA R
-## REG NO: 212223060107
+## NAME: LIDISON SHAM M
+## REG NO: 212224040171
 ## Title
 
 Scale and Load Balance Your Architecture
